@@ -1,0 +1,15 @@
+name: app_seguridad_vial
+description: App de monitoreo de seguridad vial con smartwatch.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+
+flutter:
+  uses-material-design: true
